@@ -1,4 +1,4 @@
-from database.setup import create_tables
+pynev install 3.8.13from database.setup import create_tables
 from database.connection import get_db_connection
 from models.article import Article
 from models.author import Author
